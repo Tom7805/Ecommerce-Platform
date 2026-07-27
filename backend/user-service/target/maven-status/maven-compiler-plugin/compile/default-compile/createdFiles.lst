@@ -1,0 +1,4 @@
+com\ecommerce\user\repository\RoleRepository.class
+com\ecommerce\user\entity\User.class
+com\ecommerce\user\repository\UserRepository.class
+com\ecommerce\user\entity\Role.class
